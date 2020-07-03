@@ -1,0 +1,10 @@
+
+{
+  "qualifiers": [
+    { "id" : 1,"user_no" : "133456789", "market" : "en_GB", "scenario_id" : "stop_it", "FLIP_FLOP_DF" : "1", "LAST_EVENT_TIMESTAMP_NUM" : "1593602191001"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some Acomment", "postId": 1 }
+  ],
+  "profile": { "name": "Atypicode" }
+}
